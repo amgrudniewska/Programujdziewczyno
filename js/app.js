@@ -37,4 +37,8 @@ document.addEventListener("DOMContentLoaded", function() {
     Navigation.style.borderBottom = "1px solid #7f7f7f";
 
   });
+
+  // zadanie 4//
+  var 
+
 });
